@@ -2,9 +2,8 @@
 
 > A charming and cozy platformer where a fluffy little firefighter uses brains, agility, and parkour to save fofura's day!
 
-[![Play on Unity Play](https://img.shields.io/badge/Play-Unity%20Play-blue?style=for-the-badge&logo=unity)](https://play.unity.com/pt/games/7c98e40e-9a42-4920-9a63-e57bc845b905/felpudo-bombeiro)
-[![Watch Trailer](https://img.shields.io/badge/YouTube-Trailer-red?style=for-the-badge&logo=youtube)](https://youtu.be/dw-TK5CebFU)
-
+[Unity Play Demo](https://play.unity.com/pt/games/7c98e40e-9a42-4920-9a63-e57bc845b905/felpudo-bombeiro)
+* **Watch gameplay & trailer:** [YouTube Video](https://youtu.be/dw-TK5CebFU)
 ---
 
 ## About the Game
