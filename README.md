@@ -1,4 +1,4 @@
-# 🔥 Roof Rescue: Felpudo's Mission 🐾
+🔥 Roof Rescue: Felpudo's Mission 
 
 > A charming and cozy platformer where a fluffy little firefighter uses brains, agility, and parkour to save the day!
 
