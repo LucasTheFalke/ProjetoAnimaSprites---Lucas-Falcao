@@ -43,7 +43,7 @@ Your mission? Navigate a small downtown neighborhood under pressure. The path up
 
 This project was brought to life using amazing free-to-use graphical assets and resources from the community:
 
-* **PNGs & Sprites:** [OpenGameArt](https://opengameart.org/) *(https://share.google/czWvIC7eNXkErIuGM)*
+* **PNGs & Sprites:** [OpenGameArt](https://opengameart.org/) *(https://share.google/czWvIC7eNXkErIuGM)* *(https://share.google/J5UysN9fAiHhmpRaX)* *(https://share.google/Mi4SrLuLzazlSgjNj)*
 * **Engine:** Unity
 
 ---
