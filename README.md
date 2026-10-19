@@ -29,6 +29,7 @@ Your mission? Navigate a small downtown neighborhood under pressure. The path up
 2. **Push & Build:** Push boxes and items into position to create stable platforms and pathways.
 3. **Parkour to the Top:** Run, jump, and climb your way across the rooftops using your agile firefighter moves.
 4. **The Rescue:** Reach the top cage and set Fofura free!
+5. * **use W,A,S,D or the arrows for hotizontal moviments, with the spacebar for jumping**
 
 ---
 
